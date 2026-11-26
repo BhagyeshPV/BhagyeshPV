@@ -16,4 +16,9 @@ Extensive experience managing global operations, security compliance, vulnerabil
 ---
 
 ### 📊 GitHub Stats
-![Bhagyesh's GitHub stats](https://vercel.app)
+![Bhagyesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=BhagyeshPV&show_icons=true&theme=github_dark)
+
+
+
+### Language Statistics 
+![Langauge Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BhagyeshPV&layout=compact&theme=github_dark)
