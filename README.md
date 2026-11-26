@@ -10,7 +10,8 @@ Extensive experience managing global operations, security compliance, vulnerabil
 - 🛠️ **Core Expertise:** Red Hat Enterprise Linux (RHEL), SUSE Linux (SUMA), CentOS, VMware, Ansible, Terraform, Docker, Kubernetes, Git, Nagios
 - ☁️ **Cloud & ITSM:** ServiceNow, ITIL v3, AWS, Microsoft Azure, 
 - 🏆 **Certifications:** RHCE, SUSE Administrator (SUMA 4), Azure Administrator Associate, Google Project Management, ITIL v3
-- 📫 **Reach out:** https://www.linkedin.com/in/bhagyeshv-devopslinux/ | bhagyesh.vanarse@gmail.com 
+
+**Reach out:** https://www.linkedin.com/in/bhagyeshv-devopslinux/ | bhagyesh.vanarse@gmail.com 
 
 ---
 
